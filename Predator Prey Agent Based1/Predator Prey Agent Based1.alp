@@ -4,7 +4,7 @@
 	         AnyLogic Project File 
 *************************************************	         
 -->
-<AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="8.7.1.202012141840" AlpVersion="8.7.0">
+<AnyLogicWorkspace WorkspaceVersion="1.9" AnyLogicVersion="8.7.2.202012241901" AlpVersion="8.7.0">
 <Model>
 	<Id>1151269506799</Id>
 	<Name><![CDATA[Predator Prey Agent Based1]]></Name>
@@ -3674,12 +3674,6 @@ of lynx and hares isolated on an island. Enjoy this old classic example with the
 			<BypassInitialScreen>false</BypassInitialScreen>
 		</SimulationExperiment>	
 	</Experiments>
-	<ModelResources>
-		<Resource>
-			<Path><![CDATA[AnyLogic model logo dark.png]]></Path>
-			<ReferencedFromUserCode>false</ReferencedFromUserCode>
-		</Resource>
-	</ModelResources>
     <RequiredLibraryReference>
 		<LibraryName><![CDATA[com.anylogic.libraries.modules.markup_descriptors]]></LibraryName>
 		<VersionMajor>1</VersionMajor>
